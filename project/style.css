@@ -1,0 +1,15 @@
+table, th, td{
+    border: 1px solid black;
+}
+#titlebox{
+    text-align: center;
+}
+body{
+    background-color: beige;
+}
+#imageone{
+    float: left;
+}
+#imagetwo{
+    float: left;
+}
